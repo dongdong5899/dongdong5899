@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongdong5899)](https://github.com/dongdong5899/github-readme-stats)
 
 <!--
 **dongdong5899/dongdong5899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
